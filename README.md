@@ -54,8 +54,8 @@
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs && pkg install git && pkg install libwebp && pkg install bash && pkg install imagemagick && pkg install ffmpeg && pkg install mc
-git clone https://github.com/RaditHyzer/XyzMD
-cd XyzMD
+git clone https://github.com/RaditHyzer/Alpha-New
+cd Alpha-New
 pkg install yarn
 yarn
 npm start
