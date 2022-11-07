@@ -1722,6 +1722,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ Mhankbarbar
 │○ Nurutomo
 │○ Rashid
+│○ RaditHyzer
 │○ ZeeoneOfc
 │○ Penyedia Module
 ╰❒ And All Support
@@ -2445,6 +2446,7 @@ exports.tqto = () =>{
 │○ Mhankbarbar
 │○ Nurutomo
 │○ Rashid
+│○ RaditHyzer
 │○ ZeeoneOfc
 │○ Penyedia Module
 ╰❒ And All Support
