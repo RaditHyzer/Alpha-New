@@ -120,7 +120,7 @@ global.ownernomerr = "+6281225414296" //nmr wa kalian
 ## Donate
 <details>
 <summary> <b>Qris All Payment</b></summary><br/>
-<img src="https://topindo-warehouse.id:8081/ID2021080317062_A01.png" />
+<img src="https://telegra.ph/file/6cab8a84cf528021dbc34.jpg" />
 </details>
 
 - [Saweria](https://saweria.co/RADITSESI)
